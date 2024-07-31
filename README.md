@@ -7,3 +7,6 @@ different ways to tokenisation, text analytics(stop words deleting, emoji workin
 
 ## task 2
 multiclass classification for sports according to sport comments
+
+## task 3
+clusterisation using BERTopic, comparing models with difference params, LSI, NMF
