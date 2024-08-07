@@ -12,4 +12,4 @@ multiclass classification for sports according to sport comments
 clusterisation using BERTopic, comparing models with difference params, LSI, NMF
 
 ## task 4
-sentiment analysis anime reviews, Random forest and boosting ensemble analitics, feature egineering and model interpretation. Topic modelling
+sentiment analysis anime reviews, Random forest and boosting ensemble analytics, feature egineering and model interpretation. Topic modelling
